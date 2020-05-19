@@ -1,0 +1,45 @@
+/*socialed-style.css */
+/* Own stylesheet for SocialED */
+html{
+    background: linear-gradient(to left, #C3C3C3, #FFFFFF);}
+}
+#container {
+  font-family: Helvetica, Geneva, Arial, sans-serif;
+  padding-left: 20px;
+  font-color: #2A2929; /* dark grey */
+  margin: 10px;
+}
+a:link{
+ color:black;
+
+ }
+a:hover {
+  color:#CCA7CC;
+}
+h1 {
+   color:blue;
+   font-size:20pt;
+
+
+}
+form {
+
+
+
+
+
+}
+label {
+
+
+
+
+
+}
+.inputs {
+
+
+
+
+}
+
